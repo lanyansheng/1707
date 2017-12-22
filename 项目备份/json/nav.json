@@ -1,0 +1,44 @@
+{
+"list1":{
+			"title1":"主粮",
+			"num1":"1271",
+			"title2":"零食",
+			"num2":"2385",
+			"background":"active.png"
+		},
+		"list2":{
+			"title1":"服饰",
+			"num1":"5132",
+			"title2":"窝垫",
+			"num2":"1211",
+			"background":"active.png"
+		},
+		"list3":{
+			"title1":"玩具",
+			"num1":"2300",
+			"title2":"清洁",
+			"num2":"326",
+			"background":"active.png"
+		},
+		"list4":{
+			"title1":"保健",
+			"num1":"791",
+			"title2":"医疗",
+			"num2":"781",
+			"background":"active.png"
+		},
+		"list5":{
+			"title1":"生活",
+			"num1":"2184",
+			"title2":"牵引",
+			"num2":"2757",
+			"background":"active.png"
+		},
+		"list6":{
+			"title1":"美容",
+			"num1":"1974",
+			"title2":"周边",
+			"num2":"754",
+			"background":"active.png"
+		}
+}

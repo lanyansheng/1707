@@ -1,0 +1,240 @@
+{
+	"ul_0":{
+				"list1":{
+					"title":"欧冠",
+					"content":"强势价格 全新起航",
+					"src":"food_hot_big1.jpg",
+					"data_id":"0033"
+				},
+				"list2":{
+					"title":"皇家",
+					"content":"专犬专用 定制营养",
+					"src":"food_hot_big2.jpg",
+					"data_id":"0034"
+				},
+				"list3":{
+					"title":"发育宝 吉醇元食",
+					"content":"元谷配方 真空冻干",
+					"src":"food_hot_big3.jpg",
+					"data_id":"0035"
+				},	
+				"list4":{
+					"title":"冠能",
+					"content":"赛犬级美毛粮",
+					"src":"food_hot_big4.jpg",
+					"data_id":"0036"
+				},
+				"list5":{
+					"title":"美毛犬粮",
+					"content":"科学配方，呵护皮毛",
+					"src":"food_hot_big5.jpg",
+					"data_id":"0037"
+				},
+				"list6":{
+					"title":"贵族Natures Gift",
+					"content":"高密度营养粮",
+					"src":"food_hot_big6.jpg",
+					"data_id":"0038"
+				}
+			},
+	"ul_1":{
+			"list1":{
+				"title":"加拿大原装进口专用配方全犬粮2kg",
+				"img":"dogfood_1.jpg",
+				"price":"¥290.00",
+				"data_id":"0001"					
+			},
+			"list2":{
+				"title":"海洋之星 三文鱼成犬粮 小颗粒6kg",
+				"img":"dogfood_2.jpg",
+				"price":"¥395.00",
+				"data_id":"0002"		
+			},
+			"list3":{
+				"title":"艾肯纳Acana母犬配方粮（鸡肉+鱼）2kg",
+				"img":"dogfood_3.jpg",
+				"price":"¥170.00",
+				"data_id":"0003"		
+			},
+			"list4":{
+				"title":"比利时原装进口欧帝丽幼犬鸡肉配方粮",
+				"img":"dogfood_4.jpg",
+				"price":"¥163.50",
+				"data_id":"0004"		
+			},
+			"list5":{
+				"title":"比瑞吉健康型天然粮 小型犬全价成犬粮 1.5kg",
+				"img":"dogfood_5.jpg",
+				"price":"¥82.00",
+				"data_id":"0005"		
+			},
+			"list6":{
+				"title":"冠能中型犬幼犬全价犬粮 12kg",
+				"img":"dogfood_6.jpg",
+				"price":"¥559.00",
+				"data_id":"0006"		
+			},
+			"list7":{
+				"title":"皇家 royal canin MIS30小型犬奶糕/怀孕母犬/哺乳母犬1kg",
+				"img":"dogfood_7.jpg",
+				"price":"¥69.00",
+				"data_id":"0007"		
+			},
+			"list8":{
+				"title":"喜乐比 SharlovY 鸡肉蔬果配方 幼母犬健康粮15kg",
+				"img":"dogfood_8.jpg",
+				"price":"¥280.00",
+				"data_id":"0008"		
+			}
+	},
+	"ul_2":{
+			"list1":{
+				"title":"蒙贝 天然带肉牛棒骨 S号",
+				"img":"dogfood_9.jpg",
+				"price":"¥19.80",
+				"data_id":"0009"					
+			},
+			"list2":{
+				"title":"皇家royal canin 大型犬成犬专用狗粮 拆零500g",
+				"img":"dogfood_10.jpg",
+				"price":"¥17.60",
+				"data_id":"0010"		
+			},
+			"list3":{
+				"title":"海洋之星 深海鱼成犬粮 大颗粒 拆零500g",
+				"img":"dogfood_11.jpg",
+				"price":"¥32.00",
+				"data_id":"0011"		
+			},
+			"list4":{
+				"title":"比利时原装进口欧帝丽幼犬鸡肉配方粮",
+				"img":"dogfood_12.jpg",
+				"price":"¥88.50",
+				"data_id":"0012"		
+			},
+			"list5":{
+				"title":"比瑞吉健康型天然粮 小型犬全价成犬粮 1.5kg",
+				"img":"dogfood_13.jpg",
+				"price":"¥110.00",
+				"data_id":"0013"		
+			},
+			"list6":{
+				"title":"冠能中型犬幼犬全价犬粮 12kg",
+				"img":"dogfood_14.jpg",
+				"price":"¥59.90",
+				"data_id":"0014"		
+			},
+			"list7":{
+				"title":"皇家 royal canin MIS30小型犬奶糕/怀孕母犬/哺乳母犬1kg",
+				"img":"dogfood_15.jpg",
+				"price":"¥167.00",
+				"data_id":"0015"		
+			},
+			"list8":{
+				"title":"发育宝 天然活力繁育配方 幼母犬粮拆零500g",
+				"img":"dogfood_16.jpg",
+				"price":"¥260.00",
+				"data_id":"0016"		
+			}
+	},
+	"ul_3":{
+			"list1":{
+				"title":"爱丽丝IRIS 牛肉新鲜封包 250g ",
+				"img":"dogfood_17.jpg",
+				"price":"¥9.38",
+				"data_id":"0017"					
+			},
+			"list2":{
+				"title":"皇家royal canin 大型犬成犬专用狗粮 拆零500g",
+				"img":"dogfood_18.jpg",
+				"price":"¥19.60",
+				"data_id":"0018"		
+			},
+			"list3":{
+				"title":"泰国进口渔极 主食罐系列 金枪鱼+鳕鱼狗罐头 80g",
+				"img":"dogfood_19.jpg",
+				"price":"¥10.00",
+				"data_id":"0019"		
+			},
+			"list4":{
+				"title":"顽皮 Wanpy 牛肉慕斯配方 狗罐头95g",
+				"img":"dogfood_20.jpg",
+				"price":"¥4.50",
+				"data_id":"0020"		
+			},
+			"list5":{
+				"title":"比瑞吉健康型天然粮 小型犬全价成犬粮 1.5kg",
+				"img":"dogfood_21.jpg",
+				"price":"¥3.29",
+				"data_id":"0021"		
+			},
+			"list6":{
+				"title":"易拉宝旺好成犬用选封包 牛肉+蔬菜口味100g",
+				"img":"dogfood_22.jpg",
+				"price":"¥3.29",
+				"data_id":"0022"		
+			},
+			"list7":{
+				"title":"朗悦 先锋报鸭肉幼犬粮110g*15",
+				"img":"dogfood_23.jpg",
+				"price":"¥37.90",
+				"data_id":"0023"		
+			},
+			"list8":{
+				"title":"发育宝 天然活力繁育配方 幼母犬粮拆零500g",
+				"img":"dogfood_24.jpg",
+				"price":"¥26.00",
+				"data_id":"0024"		
+			}
+	},
+	"ul_4":{
+			"list1":{
+				"title":"澳洲口腔保健狗碗 粉色中号 直径18*21.5cm",
+				"img":"dogfood_25.jpg",
+				"price":"¥55.00",
+				"data_id":"0025"					
+			},
+			"list2":{
+				"title":"小佩 白色智能饮水机 长18cm*宽18cm*高15.5cm",
+				"img":"dogfood_26.jpg",
+				"price":"¥289.00",
+				"data_id":"0026"		
+			},
+			"list3":{
+				"title":"红狗RedDog 犬用营养膏 120g",
+				"img":"dogfood_27.jpg",
+				"price":"¥80.00",
+				"data_id":"0027"		
+			},
+			"list4":{
+				"title":"先牧仕 山羊奶粉 犬猫通用 300g",
+				"img":"dogfood_28.jpg",
+				"price":"¥138.50",
+				"data_id":"0028"		
+			},
+			"list5":{
+				"title":"美国品牌麦德氏 IN-Basic四合一配方羊奶粉 300g",
+				"img":"dogfood_29.jpg",
+				"price":"¥75.00",
+				"data_id":"0029"		
+			},
+			"list6":{
+				"title":"蒙贝 宠物羊奶粉 400g",
+				"img":"dogfood_30.jpg",
+				"price":"¥88.00",
+				"data_id":"0030"		
+			},
+			"list7":{
+				"title":"皇家 royal canin MIS30小型犬奶糕/怀孕母犬/哺乳母犬1kg",
+				"img":"dogfood_31.jpg",
+				"price":"¥69.00",
+				"data_id":"00031"		
+			},
+			"list8":{
+				"title":"新宠之康 犬用出口羊奶粉 380g",
+				"img":"dogfood_32.jpg",
+				"price":"¥79.00",
+				"data_id":"00032"		
+			}
+	}
+}
